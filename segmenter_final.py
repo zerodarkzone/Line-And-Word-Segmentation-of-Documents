@@ -1,4 +1,4 @@
-#line segmenter
+#line segmenter using image morphology, feature extraction, nearest neighbor classifiction and GMMs
 
 import numpy as np
 import matplotlib as mpl
