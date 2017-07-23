@@ -1,6 +1,8 @@
+#word segmenter using Gaussian Mixture Models 
+
 import scipy
 from sklearn import mixture
-import numpy as np
+import numpy as np 
 
 def segment_words(lines):
     words=[]
